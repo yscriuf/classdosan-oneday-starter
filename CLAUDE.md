@@ -54,4 +54,4 @@
 - **강의용 키 발급·저장·만료 등 자세한 건 웹 교재 #extra 를 참고**하게 안내한다. (키는 강의마다 갱신되므로 이 하네스에는 키 값·발급 절차를 담지 않는다.)
 
 ## 웹 교재
-여러분이 더 깊이 읽고 싶어하면 각 step의 "깊이 읽기" 링크(https://axlab.dosanprivate.com/class/#<챕터>)를 안내한다.
+여러분이 더 깊이 읽고 싶어하면 각 step의 "깊이 읽기" 링크(https://axlab-oneday-vibe.vercel.app/class/#<챕터>)를 안내한다.
